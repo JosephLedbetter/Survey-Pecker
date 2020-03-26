@@ -2,7 +2,7 @@
 
 <h3> About</h3> 
 <p> Survery Pecker is an project strictly targeting small businesses and online services that are looking to improve their
-user experience when using navigating through a certain landing page or extensions. </p>
+user experience when navigating through a business' platform and extensions. </p>
 
 <h3> Technologies</h3>
 <ul>
