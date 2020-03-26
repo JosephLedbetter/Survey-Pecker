@@ -1,4 +1,4 @@
-<h1> Survery Pecker </h1>
+<h1> Survey Pecker </h1>
 
 <h3> About</h3> 
 <p> Survery Pecker is an project strictly targeting small businesses and online services that are looking to improve their
